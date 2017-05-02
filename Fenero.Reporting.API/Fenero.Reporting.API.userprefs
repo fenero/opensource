@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{ACAFB524-27A8-4675-A620-94D7EDBE6E7D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fenero.Reporting.API.exe/Program.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Fenero.Reporting.API.exe/Program.cs" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DataClassExtensions.cs" line="1199" offsetX="842" offsetY="23960" expression="this.last_state_change" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DataClassExtensions.cs" line="1199" offsetX="863" offsetY="23926" expression="DateTime.Now" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/QueuesController.cs" line="961" offsetX="578" offsetY="14400" expression="fieldname" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/QueuesController.cs" line="961" offsetX="688" offsetY="14459" expression="value" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/CensusController.cs" line="2032" offsetX="224" offsetY="30283" expression="insertSql + sql" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/InvoicesController.cs" line="74" offsetX="770" offsetY="1095" expression="payment" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/MainFacade.cs" line="172" offsetX="715" offsetY="2520" expression="ra" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/MainFacade.cs" line="174" offsetX="810" offsetY="2470" expression="ra.user_start" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/RealTimeController.cs" line="421" offsetX="553" offsetY="6300" expression="la.user" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/BillingController.cs" line="138" offsetX="548" offsetY="2317" expression="client.client_username" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/BillingController.cs" line="169" offsetX="1044" offsetY="2520" expression="client.email" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/BillingController.cs" line="169" offsetX="1044" offsetY="2520" expression="client.email" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/DNISController.cs" line="200" offsetX="503" offsetY="3144" expression="requestHeader.clientId" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/DNISController.cs" line="201" offsetX="511" offsetY="3175" expression="requestLoginInfo.login" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/DNISController.cs" line="202" offsetX="520" offsetY="3201" expression="requestLoginInfo.pwd" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/DNISController.cs" line="203" offsetX="491" offsetY="3224" expression="serviceAccount.Serviceaccount" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/DNISController.cs" line="209" offsetX="560" offsetY="3120" expression="didInfoResponse" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/MainFacade.cs" line="3461" offsetX="632" offsetY="51900" expression="ug.allowed_campaigns" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DAL/BaseDALObject.cs" line="203" offsetX="707" offsetY="3143" expression="propertyName" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DAL/BaseDALObject.cs" line="217" offsetX="706" offsetY="3206" expression="propertyValue" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DAL/BaseDALObject.cs" line="187" offsetX="674" offsetY="2856" expression="propertyName" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DAL/BaseDALObject.cs" line="206" offsetX="669" offsetY="3060" expression="dbFieldType" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/InvoicesController.cs" line="374" offsetX="730" offsetY="5599" expression="pc.state" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/RealTimeController.cs" line="597" offsetX="714" offsetY="10098" expression="callsTodayInDB" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/RealTimeController.cs" line="597" offsetX="761" offsetY="10161" expression="la.calls_today.Value" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/RealTimeController.cs" line="597" offsetX="809" offsetY="10041" expression="la.user" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Web/Controllers/CensusController.cs" line="2417" offsetX="612" offsetY="40944" expression="line" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLeads.cs" line="78" offsetX="845" offsetY="1273" expression="column.ColumnName" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLog.cs" line="48" offsetX="764" offsetY="880" expression="listId" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLog.cs" line="71" offsetX="752" offsetY="1133" expression="customTable.Rows.Count" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLog.cs" line="98" offsetX="1009" offsetY="1649" expression="row [&quot;lead_id&quot;]" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLog.cs" line="101" offsetX="911" offsetY="1735" expression="customCol.ColumnName" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Reports/OutboundExportLog.cs" line="63" offsetX="823" offsetY="1054" expression="listId" liveUpdate="False" />
+    <Watch file="../../../../../../Desktop/Dropbox/Projects/Fenero/Technology/SourceCode/FC2/FC2.Library/DAL/BaseDALObject.cs" line="177" offsetX="783" offsetY="2038" expression="sql" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Fenero.Reporting.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

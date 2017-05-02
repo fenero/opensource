@@ -1,0 +1,5 @@
+/Users/mwilliams/Desktop/ITM/ITM.Fenero.API/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mwilliams/Desktop/ITM/ITM.Fenero.API/bin/ITM.Fenero.API.dll.mdb
+/Users/mwilliams/Desktop/ITM/ITM.Fenero.API/bin/ITM.Fenero.API.dll
+/Users/mwilliams/Desktop/ITM/ITM.Fenero.API/obj/Debug/ITM.Fenero.API.dll
+/Users/mwilliams/Desktop/ITM/ITM.Fenero.API/obj/Debug/ITM.Fenero.API.dll.mdb
